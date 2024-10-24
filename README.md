@@ -1,4 +1,4 @@
-<div style="width:250px;height:250px;overflow:hidden;border-radius:50%;display:flex;align-items:center;justify-content:center;">
+<div style="width:150px;height:150px;overflow:hidden;border-radius:50%;display:flex;align-items:center;justify-content:center;">
     <img src="assets/img/Alex_Headshot.JPG" alt="My Headshot" style="width:auto;height:150%;object-fit:cover;object-position:center;">
 </div>
 

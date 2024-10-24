@@ -1,3 +1,4 @@
+![My Headshot](assets/img/Alex_Headshot.JPG)
 ## Education
 ####Bachelors at UC Berkeley - Data Science, Domain of Emphasis: Linguistic Sciences
 Expected Graduation Date: May 2025

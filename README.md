@@ -1,4 +1,6 @@
-<img src="assets/img/Alex_Headshot.JPG" alt="My Headshot" style="width:150px;border-radius:50%;">
+<div style="width:150px;height:150px;overflow:hidden;border-radius:50%;">
+    <img src="assets/img/Alex_Headshot.JPG" alt="My Headshot" style="width:100%;height:auto;">
+</div>
 
 
 ## Education

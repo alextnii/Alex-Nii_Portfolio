@@ -1,6 +1,5 @@
-<div style="text-align:center;">
-  <img src="assets/img/Alex_Headshot.JPG" alt="My Headshot" style="width:150px;height:150px;border-radius:50%;">
-</div>
+<img src="assets/img/Alex_Headshot.JPG" alt="My Headshot" style="width:150px; height:auto; max-height:150px; border-radius:50%;">
+
 
 ## Education
 ####Bachelors at UC Berkeley - Data Science, Domain of Emphasis: Linguistic Sciences

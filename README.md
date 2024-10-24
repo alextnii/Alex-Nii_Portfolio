@@ -1,4 +1,7 @@
-![My Headshot](assets/img/Alex_Headshot.JPG)
+<div style="text-align:center;">
+  <img src="assets/img/Alex_Headshot.JPG" alt="My Headshot" style="width:150px;height:150px;border-radius:50%;">
+</div>
+
 ## Education
 ####Bachelors at UC Berkeley - Data Science, Domain of Emphasis: Linguistic Sciences
 Expected Graduation Date: May 2025

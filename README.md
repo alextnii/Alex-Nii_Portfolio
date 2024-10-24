@@ -1,5 +1,5 @@
 ## Education
-Data Science, Bachelors at UC Berkeley
+####Bachelors at UC Berkeley - Data Science, Domain of Emphasis: Linguistic Sciences
 Expected Graduation Date: May 2025
 
 ## Experience

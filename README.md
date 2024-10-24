@@ -1,9 +1,8 @@
-# Student at UC Berkeley
+## Education
+Data Science, Bachelors at UC Berkeley
+Expected Graduation Date: May 2025
 
-### Education
-Data Science, Bachelors
-
-### Experience
+## Experience
 #### DataStory Consulting (UC Berkeley Organization)
 ##### Project Manager
 - Leading project team of 5 consultants by leading weekly meetings, delegating weekly tasks, and teaching technical skills
@@ -27,7 +26,7 @@ Data Science, Bachelors
 - Answered questions students had in lab section, assisted with debugging, and recommended different strategies to approach class material
 - Led specific worksheet problems in front of the class to help them better understand the thought process when solving problems
 
-### Projects
+## Projects
 #### Game Leak Detection and Analysis via Web Scraping (Electronic Arts)
 - Developing a Python script to extract leaked video game articles, game titles, and information to facilitate integration with other data
 - Engineering a comprehensive data pipeline to clean, process, and load the scraped data into a Snowflake database using Snowflake API
@@ -43,6 +42,6 @@ Data Science, Bachelors
 - Implemented algorithmic solutions, such as a function to scale features into a 10-dimensional vector and a cosine similarity function
 - Achieved high accuracy in recommendations, validated by personal testing, and allowed for playlist size and song customizations
 
-### Skills and Interests
+## Skills and Interests
 **Skills:** Python (Pandas Library), SQL, MySQL Workbench, Microsoft Power BI, Jupyter Notebook, Java, Microsoft Excel  
 **Interests:** Acoustic Guitar, Tennis, Running, Hiking, Weightlifting, Art History

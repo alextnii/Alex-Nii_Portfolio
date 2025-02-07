@@ -34,9 +34,13 @@ Expected Graduation Date: May 2025
 
 ## Projects
 #### Game Leak Detection and Analysis via Web Scraping (Electronic Arts)
-- Developing a Python script to extract leaked video game articles, game titles, and information to facilitate integration with other data
-- Engineering a comprehensive data pipeline to clean, process, and load the scraped data into a Snowflake database using Snowflake API
-- Creating supervised predictive models using critic scores and sales metrics to identify correlations between leaks and game success
+- Utilized Python and BeautifulSoup to automate data scraping and extract insights by parsing 40,000+ articles.
+- Deployed and managed AWS EC2 instances to execute large-scale web scraping and scripts from multiple websites
+- Developed keyword-based classification and confusion matrices to supplement video game leak article analysis
+
+### NBA MVP Prediction | Machine Learning & Time-Series Analysis
+- Developed an XGBoost regression model to predict NBA MVP award shares, training on 30+ features for 42 seasons
+- Optimized model from first season to most recent, reducing MAE from 0.0102 to 0.0050, (50.7% accuracy increase)
 
 #### Dynamic/Interactive Data Visualizations (Environmental Power Research Institute)
 - Created dynamic climate visualization tools with Holoviz, Pandas, Bokeh, and Panel libraries featuring various interactive widgets
